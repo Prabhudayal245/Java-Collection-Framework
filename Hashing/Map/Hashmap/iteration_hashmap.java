@@ -9,9 +9,9 @@ public class iteration_hashmap {
         // insertion
         hm.put("india",150);
         hm.put("nepal",70);
-        hm.put("china",140);        
-        hm.put("sri lanka",110);        
-        hm.put("japan",50);        
+        hm.put("china",140); 
+        hm.put("sri lanka",110); 
+        hm.put("japan",50);
         hm.put("africa",100);   
         
         // iteration
